@@ -7,4 +7,3 @@ soong_namespace {
 		"vendor/samsung/sm7125-common",
 	],
 }
-
